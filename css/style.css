@@ -7,4 +7,14 @@
 .container {
   width: 100%;
   margin: 0 auto;
-}/*# sourceMappingURL=style.css.map */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw12;
+}
+.header {
+  margin: 20px;
+}
+.header img {
+  width: 200px;
+}
